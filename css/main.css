@@ -1,0 +1,57 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .hero {
+  }
+  .hero-nav li {
+    list-style: none;
+  }
+  .hero-nav a {
+    text-decoration: none;
+    padding: 1rem;
+    color: white;
+    text-align: right;
+  }
+  .hero-nav ul {
+    display: flex;
+    background: #14a96d;
+    margin: 0;
+    padding: 1rem;
+  }
+  .dog-profile img {
+    height: 100vh;
+    width: 90%;
+    position: center;
+  }
+  .dog-profile {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2rem;
+  }
+  
+  /* main */
+  .dog-type img {
+    height: 100vh;
+    width: 90%;
+    padding-left: 10%;
+  }
+  .dog-type h2 {
+    text-align: center;
+    font-size: 1.8rem;
+  }
+  .dog-type-top {
+    padding-bottom: 50px;
+    font-family: monospace;
+    font-size: 2rem;
+  }
+  .dog-type-bot {
+    padding-top: 8rem;
+    font-size: 1.4rem;
+  }
+  
